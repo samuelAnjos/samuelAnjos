@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ***
-I'm currently studying at UFS in the course of information systems. I'm enthusiastic about learning new technologies, both because I am curious, and because it is constantly growing. 
+I'm currently studying at UFS in the course of information systems. I'm enthusiastic about learning new technologies, both because I am curious and because it is constantly growing. 
+
